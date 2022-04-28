@@ -10,8 +10,11 @@ My name is Yueyan Gu. I am a Ph.D. student from the Charles Edward Via Departmen
 
 - M.Sc., Civil Engineering, Southeast University, 2020
 - B.S., Civil Engineering, Southeast University, 2017
+- 
+### Publications
+- Google scholar: [Yueyan Gu](https://scholar.google.com/citations?user=caBd4w4AAAAJ&hl=en&oi=ao)
 
-### Honora and Awards
+### Honors and Awards
 
 - Excellent Graduate Student, Southeast University, 2020
 - National Scholarship, Ministry of Education P.R. China, 2020
