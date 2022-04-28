@@ -48,7 +48,7 @@ social-network-links:
 #   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: Yueyan Gu
+ linkedin: Yueyan Gu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -76,7 +76,7 @@ social-network-links:
 share-links-active:
 #   twitter: true
 #   facebook: true
-#   linkedin: true
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
@@ -84,13 +84,13 @@ share-links-active:
 url-pretty: "yueyangu.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+# excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+# feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+# feed_show_tags: true
 
 # Add a search button to the navbar
 post_search: true
