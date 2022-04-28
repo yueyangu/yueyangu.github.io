@@ -4,7 +4,7 @@
 # the initial set up you won't need to come back to this file often.
 
 # --- Required options --- #
-future: true
+# future: true
 # Name of website
 title: Yueyan Gu
 
@@ -48,7 +48,7 @@ social-network-links:
 #   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
- linkedin: Yueyan Gu
+#  linkedin: Yueyan Gu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -62,7 +62,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
- google-scholar: Yueyan Gu
+#  google-scholar: Yueyan Gu
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 
