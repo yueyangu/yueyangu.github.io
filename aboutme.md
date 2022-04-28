@@ -30,6 +30,6 @@ My name is Yueyan Gu. I am a Ph.D. student from the Charles Edward Via Departmen
 - Excellent Undergraduate Student, Southeast University, 2017
 
 ### Experience
-- Programmer, [Tianhua](https://www.thape.com/?locale=en), Shanghai, 2020
+- Software development engineer, [Tianhua](https://www.thape.com/?locale=en), Shanghai, 2020
 - Head of the International Communication Department of Graduate Students' Union, Southeast University, 2018-2019
 - Volunteer of SLUSH, Helsinki, 2016
