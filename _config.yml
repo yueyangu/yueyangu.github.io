@@ -132,7 +132,7 @@ footer-hover-col: "#0085A1"
 #site-js:
 #  - "/assets/js/custom-script.js"
 
-# --- Web Analytics Section --- #
+# --- Web Analytics Section #--- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""
