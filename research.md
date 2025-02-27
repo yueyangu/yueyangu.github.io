@@ -2,13 +2,33 @@
 layout: page
 title: Research
 ---
-Before I came to Virginia Tech, I had a master degree in Civil Engineering with a focus on steel structures. My Ph.D. research is in smart building/infrastructure management using artificial intelligence tools. I’ve been working on an unsupervised time series anomaly detection framework to facilitate the built environment maintenance and management (e.g., anomaly detection in railroad track condition, event detection in the building energy consumption). In the future, I’ll look into more possibilities of applying advanced artificial intelligence technologies in the lifecycle of building and infrastructure systems to build a more efficient built environment.
 
-### An Unsupervised GAN-based Anomaly Detection Approach for Univariate Time Series
- 
-Developing efficient anomaly detection techniques is important to maintain service quality and provide early alarms in industrial systems. Many related work has been done based on comparative time series data, a ubiquitous form for measuring, recording and analysing the dynamics of different processes. However, most existing supervised approaches can achieve satisfying results only if there is sufficient labeled training data. The information contained in unlabeled dataset has not been fully leveraged. In this project, we proposed an unsupervised Generative Adversarial Network (GAN)-based anomaly detection framework. It only takes repeated normal time series data as input to train a well-configured Discriminator into a standalone anomaly predictor, and relys only on normal data for the validation process.
+## Virginia Tech
 
-### Parametric performance analysis of stainless steel bolted beam-column joints (MS thesis)
-- Parametric modeling of bolted beam-column joints were carried out through Python. 
-- Studying the static and seismic behavior of the joints (relationship between bending moment and rotation angle, stress distribution and the yielding mechanism) with finite element analysis software Abaqus, proposing design theories and methods to support the revision of “Technical Speculation for Stainless Steel Structures” 
-- Conducted an experimental study (56 specimens) in roughness and slip factors of preloaded bolted stainless steel connections, studied the micro mechanism of high/low slip factors with the aid of 3D surface detection, suggested practical and economical surface treatment methods for stainless steel.
+### LLM-adaptation and Foundation Models for Building Energy Management	(2024-present)
+•	Validated the feasibility of adapting large language models (LLMs) across modalities for time series-based building energy forecasting, demonstrating that a fine-tuned GPT-2 outperformed or matched context-specific baselines using state-of-the-art algorithms (e.g., TimesNet, Koopa, DLinear, MICN, and FiLM).
+
+### Scalable and Generalized Energy Models 	(2023-2024)
+•	Established Transformer-based Generalized Energy Models (GEMs) based on 1000+ commercial buildings’ data. Both zero-shot and fine-tuned GEMs outperformed context-specific baselines across state-of-the-art algorithms.
+•	Enhanced computational efficiency by leveraging multi-core GPU-accelerated architectures.
+
+### Generative AI-Powered Automated Infrastructure Management	(2021-2023)
+•	Established an unsupervised probabilistic framework for infrastructure exception detection utilizing the discriminant component of GANs and density estimation and optimized the configuration with ablation studies.
+•	Introduced multi-dimensional deep learning frameworks for multivariate data, showcasing the practical advancements in multivariate analysis compared to univariate one. 
+•	Conducted comparative studies against classic unsupervised methods in a real-world rail track exception detection case study.
+
+## Southeast University	
+
+### Performance of Stainless Steel Bolted Beam-Column Joints, Southeast University	(2018-2020)
+•	Tested 56 specimens of preloaded bolted connections, examined micro-mechanisms with 3D surface detection, and recommended practical surface treatment methods.
+•	Automated parametric modeling of bolted beam-column joints using Python-powered finite element analysis
+•	Based on experiments and simulations, proposed design theories for revising "Chinese Technical Speculation for Stainless Steel Structures."
+
+### Performance of Cold-Drawn Duplex Stainless Steel Columns, Southeast University	(2017-2018)
+•	Performed axial compression tests on 13 square-hollow-section (SHS) and 13 circular-hollow-section (CHS) duplex stainless steel columns, compared test strengths with design strengths.
+•	Conducted finite element analysis on cold-drawn duplex stainless steel tubes under axial compression, validating the models with test results.
+
+### Developing Biomimetic Straw-Based Building Materials, Southeast University	(2014-2016)
+•	Reviewed biomimetic structures inspired by beetle forewing and honeycomb designs and assessed the straw-based building materials industry and market.
+•	Conducted experimental study on a straw-based board reinforced by biomimetic double helix basalt fibers, analyzing its mechanical properties and resulting in a patented innovation.
+
