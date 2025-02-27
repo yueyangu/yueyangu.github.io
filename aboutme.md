@@ -7,7 +7,7 @@ I am a Ph.D. candidate working with Dr. Farrokh Jazizadeh in the [INFORM LAB](ht
 
 ### Education
 - Ph.D. student, Civil Engineering, Virginia Tech, expect 2025
-- M.Sc., Computer Science, Virginia Tech, 2020
+- M.Sc., Computer Science, Virginia Tech, 2024
 - M.Sc., Civil Engineering, Southeast University, 2020
 - B.S., Civil Engineering, Southeast University, 2017
  
@@ -24,6 +24,19 @@ I am a Ph.D. candidate working with Dr. Farrokh Jazizadeh in the [INFORM LAB](ht
 - Excellent Graduate Student, Southeast University, 2020
 - National Scholarship, Ministry of Education P.R. China, 2020
 - Excellent Undergraduate Student, Southeast University, 2017
+- CEM Outstanding Graduate Student, Virginia Tech, 2024
+- The Honor Society of Phi Kappa Phi (Top 10% graduate students), Virginia Tech, 2024
+- Vecellio Fellowship, Virginia Tech, 2022
+- BioBuild Fellowship, Virginia Tech, 2022
+- Pratt Graduate Fellowship, Virginia Tech, 2021
+- Outstanding Graduate Student, Southeast University, 2020
+- China National Scholarship, Southeast University, 2019
+- Outstanding Graduate Student Leader, Southeast University, 2019
+- Outstanding Teaching Assistant, Southeast University, 2018
+- Honored Graduate, Southeast University, 	2017
+- Outstanding Undergraduate Graduation Thesis,	Southeast University, 2017
+- Grand Prize for Outstanding Innovative Practice Achievements in Civil Eng. for Undergraduate Students,	National award (China),	2016
+- First Prize at the 4th National Undergraduate Civil Eng. Forum,	National award (China),	2016
 
 ### Experience
 - Software development engineer, [Tianhua](https://www.thape.com/?locale=en), Shanghai, 2020
